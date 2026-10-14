@@ -1,0 +1,1 @@
+{ "name": "buscador-skills", "version": "0.1.0", "description": "Panel fijo para buscar e instalar skills en Claude", "types": "./types/index.d.ts" }

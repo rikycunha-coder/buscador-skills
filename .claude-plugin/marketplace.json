@@ -1,0 +1,5 @@
+{
+  "name": "buscador-skills",
+  "owner": { "name": "rikycunha-coder" },
+  "plugins": [{ "name": "buscador-skills", "source": "./" }]
+}
